@@ -1,0 +1,17 @@
+#home .underline {
+    border-bottom: 5px solid #009688;
+  }
+  #home .teal {
+    padding: 0 10px;
+  }
+  .teal {
+    background-color: #008073 !important;
+}
+#lightSwitch {
+    transform: scale(1.8);
+}
+.hero-banner {
+    background: url(../assets/banner.jpg) no-repeat top center/cover;
+    height: 100vh;
+    position:relative;
+}
